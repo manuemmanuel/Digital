@@ -1,4 +1,4 @@
-# Gates-Verilog Repository
+# Gates-Verilog
 This repository contains a collection of basic digital logic gates implemented in Verilog HDL (Hardware Description Language). These include:
 - AND
 - OR
